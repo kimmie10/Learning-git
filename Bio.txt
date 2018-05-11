@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Biography</title>
+
+        <body>
+
+        <h1>Student Bio</h1>
+
+        <br>   
+
+        <h2>Kim Wood</h2>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum fringilla nibh quis accumsan. Pellentesque non orci venenatis, consequat ligula id, euismod lectus. Cras vehicula semper massa, in dignissim dui ornare nec. Nulla facilisis, turpis vel molestie consequat, ex augue tristique nunc, in lobortis libero eros ac arcu. Mauris ac lacus non elit vulputate vehicula nec nec magna. Donec eu magna sit amet velit vulputate blandit. Aliquam</p>
+
+        <br>
+
+        <h2>Contact Info</h2>
+
+            <p>. Email: someplace@gmail.com</p>
+            <p>. Github: sampleName</p>
+            <p>. Portfolio: coming soon</p>
+
+        <body>
+
+    </head>
+</html>
